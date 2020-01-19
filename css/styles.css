@@ -1,21 +1,20 @@
+body {
+    background-color: #53bbb2;
 
-            body {
-                background-color:#53bbb2;
-    
-            }
-            hr {
-                background-color: grey;
-                border-style: none;
-                border-top-style: dotted;
-                border-width: 5px;
-                width: 35%;
-            }
-            h1{
-                color: #d4e7e7
+}
 
-            }
-            h3{
-                color: #d4e7e7
+hr {
+    background-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 30%;
+}
 
-            }
-            
+h1 {
+    color: #d4e7e7
+}
+
+h3 {
+    color: #d4e7e7
+}
